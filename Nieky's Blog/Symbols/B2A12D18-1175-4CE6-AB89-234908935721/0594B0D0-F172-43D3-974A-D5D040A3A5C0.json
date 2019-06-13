@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0594B0D0-F172-43D3-974A-D5D040A3A5C0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "60E575A4-EBD3-4578-8140-DCB9BFC79259",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B0C496F4-DEBD-4C6A-9216-009CF78BB44B",
+    "height": 20,
+    "width": 20,
+    "x": 1031,
+    "y": 285
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Twitter Social",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AAFDD949-D55C-4698-A24D-975485542B56",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B6DCE76F-6135-401E-A839-96BCDA7AD049",
+  "verticalSpacing": 0
+}

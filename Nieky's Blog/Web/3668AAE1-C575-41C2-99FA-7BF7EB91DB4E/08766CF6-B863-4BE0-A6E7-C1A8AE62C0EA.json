@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "08766CF6-B863-4BE0-A6E7-C1A8AE62C0EA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D1C1AC95-8E73-49A7-96E8-75ACC993A243",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4D339942-BBC1-47F7-9416-232CD26CC5CE",
+    "height": 26,
+    "width": 132,
+    "x": 31,
+    "y": 734
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Web Development Chip",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "85EE5890-C6FB-49E3-9196-E5589C9B7C03_stringValue",
+      "value": "Web Development"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3E3EFF75-5E65-4B36-9A8B-A8BA3D897DE1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F8976835-E3FD-4E2E-8215-86DCED7F3C1A",
+  "verticalSpacing": 0
+}

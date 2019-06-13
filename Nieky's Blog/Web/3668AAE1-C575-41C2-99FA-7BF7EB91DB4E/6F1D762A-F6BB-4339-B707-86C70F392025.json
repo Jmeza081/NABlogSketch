@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6F1D762A-F6BB-4339-B707-86C70F392025",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "383F5767-6A9B-49B7-A038-75698D8E250F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C835AE71-1D14-47E4-B59F-B9472EB9D1C3",
+    "height": 26,
+    "width": 55,
+    "x": 31,
+    "y": 692
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tech Chip",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D42EB3B1-E010-427B-9A45-6BDA1BAF570D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F8976835-E3FD-4E2E-8215-86DCED7F3C1A",
+  "verticalSpacing": 0
+}

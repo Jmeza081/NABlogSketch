@@ -1,0 +1,411 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6206593944262732,
+          "green": 0.7188915307971014,
+          "red": 0.00136983904496402
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1137254901960784,
+          "green": 0.09019607843137255,
+          "red": 0.07450980392156863
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.5490196078431373,
+          "red": 0.2588235294117647
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1490196078431373,
+          "green": 0.1254901960784314,
+          "red": 0.1058823529411765
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2872827750374884,
+          "green": 0.3138349366734316,
+          "red": 0.954879981884058
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2374603713768116,
+          "green": 0.2199445427772284,
+          "red": 0.2053480189442424
+        }
+      }
+    ],
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6206593944262732,
+        "green": 0.7188915307971014,
+        "red": 0.00136983904496402
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1137254901960784,
+        "green": 0.09019607843137255,
+        "red": 0.07450980392156863
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 0.5490196078431373,
+        "red": 0.2588235294117647
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1490196078431373,
+        "green": 0.1254901960784314,
+        "red": 0.1058823529411765
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2872827750374884,
+        "green": 0.3138349366734316,
+        "red": 0.954879981884058
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2374603713768116,
+        "green": 0.2199445427772284,
+        "red": 0.2053480189442424
+      }
+    ],
+    "gradientAssets": [
+      {
+        "_class": "MSImmutableGradientAsset",
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0, 0.37436901756995683}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 0.5490196078431373,
+                "red": 0.2588235294117647
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.403921568627451,
+                "green": 0.1529411764705882,
+                "red": 0.8117647058823529
+              },
+              "position": 1
+            }
+          ],
+          "to": "{1.1402278288404142, 0.63836531307059485}"
+        }
+      },
+      {
+        "_class": "MSImmutableGradientAsset",
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8235294117647058,
+                "green": 0.00392156862745098,
+                "red": 0.5647058823529412
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8196078431372549,
+                "green": 0.807843137254902,
+                "red": 0.4196078431372549
+              },
+              "position": 1
+            }
+          ],
+          "to": "{1, 1}"
+        }
+      },
+      {
+        "_class": "MSImmutableGradientAsset",
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.40000000000000002, 1}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.792156862745098,
+                "green": 0.06274509803921569,
+                "red": 0.2784313725490196
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.5647058823529412,
+                "green": 0.3254901960784314,
+                "red": 0.05098039215686274
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.59999999999999998, 0}"
+        }
+      },
+      {
+        "_class": "MSImmutableGradientAsset",
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0, 0.25}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2078431372549019,
+                "green": 0.7529411764705882,
+                "red": 0.8941176470588235
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.1529411764705882,
+                "green": 0.3294117647058823,
+                "red": 1
+              },
+              "position": 1
+            }
+          ],
+          "to": "{1, 0.75}"
+        }
+      }
+    ],
+    "gradients": [
+      {
+        "_class": "gradient",
+        "elipseLength": 0,
+        "from": "{0, 0.37436901756995683}",
+        "gradientType": 0,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 1,
+              "green": 0.5490196078431373,
+              "red": 0.2588235294117647
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.403921568627451,
+              "green": 0.1529411764705882,
+              "red": 0.8117647058823529
+            },
+            "position": 1
+          }
+        ],
+        "to": "{1.1402278288404142, 0.63836531307059485}"
+      },
+      {
+        "_class": "gradient",
+        "elipseLength": 0,
+        "from": "{0, 0}",
+        "gradientType": 0,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.8235294117647058,
+              "green": 0.00392156862745098,
+              "red": 0.5647058823529412
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.8196078431372549,
+              "green": 0.807843137254902,
+              "red": 0.4196078431372549
+            },
+            "position": 1
+          }
+        ],
+        "to": "{1, 1}"
+      },
+      {
+        "_class": "gradient",
+        "elipseLength": 0,
+        "from": "{0.40000000000000002, 1}",
+        "gradientType": 0,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.792156862745098,
+              "green": 0.06274509803921569,
+              "red": 0.2784313725490196
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.5647058823529412,
+              "green": 0.3254901960784314,
+              "red": 0.05098039215686274
+            },
+            "position": 1
+          }
+        ],
+        "to": "{0.59999999999999998, 0}"
+      },
+      {
+        "_class": "gradient",
+        "elipseLength": 0,
+        "from": "{0, 0.25}",
+        "gradientType": 0,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.2078431372549019,
+              "green": 0.7529411764705882,
+              "red": 0.8941176470588235
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.1529411764705882,
+              "green": 0.3294117647058823,
+              "red": 1
+            },
+            "position": 1
+          }
+        ],
+        "to": "{1, 0.75}"
+      }
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+      {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/a63d2e034c4a83c826aeac52f54270e515a1098f.png",
+        "_ref_class": "MSImageData"
+      }
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "C3F5836C-72A0-4D71-87B9-A56DC372B37A",
+  "foreignLayerStyles": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "55",
+    "build": 78076,
+    "version": 118
+  },
+  "pages": [
+    "Web",
+    "Mobile",
+    "Symbols"
+  ]
+}

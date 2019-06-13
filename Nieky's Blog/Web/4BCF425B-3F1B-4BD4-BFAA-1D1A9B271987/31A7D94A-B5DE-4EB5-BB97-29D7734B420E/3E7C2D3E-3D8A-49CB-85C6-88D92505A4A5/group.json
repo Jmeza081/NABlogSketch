@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3E7C2D3E-3D8A-49CB-85C6-88D92505A4A5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 126,
+    "x": 632,
+    "y": 115
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A8E5D3B1-8E9F-4F3B-9493-0F73186E4CDF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B588FAC4-CE36-409B-B60E-B186D52D0AE4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ACDF5C12-0B68-490D-8685-52BAB2860298"
+    },
+    {
+      "class": "text",
+      "id": "C136E8BC-6360-4C70-824A-9CC9FFAB3BC9"
+    }
+  ],
+  "name": "Share Group",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
