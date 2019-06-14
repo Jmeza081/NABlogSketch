@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "SourceSansPro-Regular",
-              "size": 18
+              "size": 16
             }
           },
           "paragraphStyle": {
@@ -51,12 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 180,
+    "height": 150,
     "width": 432,
     "x": 0,
     "y": 179
   },
-  "glyphBounds": "{{0, 8}, {416, 167}}",
+  "glyphBounds": "{{0, 9}, {427, 136}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,12 +65,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Lorem ipsum dolor si",
-  "nameIsFixed": false,
+  "name": "Blog Preview Text",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "1BBB2696-87E5-4030-88B8-BE27E98D0752",
+  "sharedStyleID": "E164BC8C-EDC5-4633-BF3D-4151180950F9",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -92,7 +92,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "SourceSansPro-Regular",
-            "size": 18
+            "size": 16
           }
         },
         "paragraphStyle": {

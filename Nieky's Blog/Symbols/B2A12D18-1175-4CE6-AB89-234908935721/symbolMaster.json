@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 5551,
+  "changeIdentifier": 5555,
   "clippingMaskMode": 0,
   "do_objectID": "B2A12D18-1175-4CE6-AB89-234908935721",
   "exportOptions": {
@@ -26,7 +26,7 @@
     "constrainProportions": false,
     "height": 326,
     "width": 1200,
-    "x": 1205,
+    "x": 1460,
     "y": 0
   },
   "groupLayout": {
@@ -54,7 +54,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
@@ -101,13 +101,18 @@
       "id": "D3B768C0-5533-46A7-8136-C44D80F77ECD"
     }
   ],
-  "name": "Footer",
-  "nameIsFixed": false,
+  "name": "Footer / With Avatar",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "8C571B96-17E5-4196-B5A5-A5BAD9777219_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D3B768C0-5533-46A7-8136-C44D80F77ECD_image"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -193,11 +198,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "09918DE1-70B0-4FB0-A23C-450ABCB0E17D_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "FCF4A4D8-B725-4E08-8864-7EE877D45CA0_image"
     },
     {
       "_class": "MSImmutableOverrideProperty",

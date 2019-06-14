@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "800DA93F-2867-4565-9C2C-F18B3CFF421F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 27,
+    "width": 108,
+    "x": 547,
+    "y": 2200
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Like",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B0944B51-9008-4767-A9A5-3CE88CC3DFC2",
+      "overrideName": "8577497A-6EE8-4EE1-9137-82FB613699C9_symbolID",
+      "value": "807E92FE-C4A7-4DCE-B688-11540F75A3F9"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D1802CD7-A0B6-44FA-805A-8E7D0ACBC3A8",
+      "overrideName": "88F2942B-0889-42A2-A4C2-330988985DAB_stringValue",
+      "value": "Subscribe"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AE70918D-A7E4-4899-AEF0-ADB51ACE0BDE",
+  "verticalSpacing": 0
+}

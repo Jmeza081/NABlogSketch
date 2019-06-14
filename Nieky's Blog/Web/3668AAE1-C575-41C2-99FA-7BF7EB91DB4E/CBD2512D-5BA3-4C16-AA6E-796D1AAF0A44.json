@@ -17,8 +17,8 @@
     "constrainProportions": false,
     "height": 133,
     "width": 442,
-    "x": 227,
-    "y": 1028
+    "x": 121,
+    "y": 1008
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -40,6 +40,12 @@
         "_ref": "images/f86a203ba6f9c86b37cc0abfccb035214e0f63fe.png",
         "_ref_class": "MSImageData"
       }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C47B36F6-BFDD-4213-8D4E-10373B082FD6",
+      "overrideName": "BD45D06D-D133-4AF2-8D65-45E40F1537A2_stringValue",
+      "value": "Best Coffee Places in Chicago By Neighborhoods"
     }
   ],
   "resizingConstraint": 63,

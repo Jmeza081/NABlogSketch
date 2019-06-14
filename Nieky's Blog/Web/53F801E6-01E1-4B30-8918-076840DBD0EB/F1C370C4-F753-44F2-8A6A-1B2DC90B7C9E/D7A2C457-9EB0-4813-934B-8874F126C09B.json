@@ -1,0 +1,66 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D7A2C457-9EB0-4813-934B-8874F126C09B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 26,
+    "width": 55,
+    "x": 149,
+    "y": 40
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "API Chip",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "85EE5890-C6FB-49E3-9196-E5589C9B7C03_stringValue",
+      "value": "API"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F294E17B-127B-4BB9-AD6C-83BECFAA5C4C",
+      "overrideName": "85EE5890-C6FB-49E3-9196-E5589C9B7C03_textStyle",
+      "value": "675376A6-CC1D-4ECF-9D07-28A65552E939"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1B821676-96BE-424A-BCCB-BF7533D3762A",
+      "overrideName": "8A02414B-E420-419E-81B9-976119B193D5_symbolID",
+      "value": "258D8CBA-A1D9-43F7-B910-3BE39E5B5906"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F8976835-E3FD-4E2E-8215-86DCED7F3C1A",
+  "verticalSpacing": 0
+}

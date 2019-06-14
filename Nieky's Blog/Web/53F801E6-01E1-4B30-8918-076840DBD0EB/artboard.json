@@ -1,0 +1,126 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "53F801E6-01E1-4B30-8918-076840DBD0EB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 883,
+    "width": 1200,
+    "x": -5212,
+    "y": -1430
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      1086,
+      121
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "8A2F1CCC-903B-4F33-8B7C-1A226722B5C7"
+    },
+    {
+      "class": "rectangle",
+      "id": "479E7417-9F27-44AF-8A57-709509040F5A"
+    },
+    {
+      "class": "rectangle",
+      "id": "D8A31935-4E86-4EBB-A7A4-6184AC51FA37"
+    },
+    {
+      "class": "group",
+      "id": "F1C370C4-F753-44F2-8A6A-1B2DC90B7C9E"
+    },
+    {
+      "class": "group",
+      "id": "0B34CD35-C481-4F85-8250-B9E4604395E9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "513351F2-0038-4A02-9696-0809D313DAAD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5F5FEAB3-7C0C-4075-8134-600D63F70EFE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6272ED82-C318-4AF1-9FDB-3FC0718A0BE6"
+    },
+    {
+      "class": "text",
+      "id": "2DD42F88-945B-40E6-8C79-64AD4A6A820B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "321BBDE4-A093-4998-9AD9-A20ADCC75FA3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5270CD89-3FCE-4B43-B410-958F7A653FE8"
+    }
+  ],
+  "name": "Landing Page Copy",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 700,
+    "name": "Standard Web",
+    "offersLandscapeVariant": 0,
+    "width": 1200
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

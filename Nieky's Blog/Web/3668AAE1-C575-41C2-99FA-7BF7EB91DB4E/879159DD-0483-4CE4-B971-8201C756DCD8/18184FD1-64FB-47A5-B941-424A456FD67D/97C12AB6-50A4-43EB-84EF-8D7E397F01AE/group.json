@@ -15,9 +15,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 359,
+    "height": 386,
     "width": 471,
-    "x": 658,
+    "x": 618,
     "y": 106
   },
   "groupLayout": {
@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -51,10 +51,14 @@
     {
       "class": "text",
       "id": "8D03F477-2F65-43B1-BE8B-B07ADEFDE8C3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5195EE3A-F0C5-4353-A1E1-A7D25FEA9E87"
     }
   ],
-  "name": "Group",
-  "nameIsFixed": false,
+  "name": "Blog Data",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

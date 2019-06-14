@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -41,8 +41,8 @@
       "id": "18184FD1-64FB-47A5-B941-424A456FD67D"
     }
   ],
-  "name": "Group 2",
-  "nameIsFixed": false,
+  "name": "Featured Blog w Hero Image",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

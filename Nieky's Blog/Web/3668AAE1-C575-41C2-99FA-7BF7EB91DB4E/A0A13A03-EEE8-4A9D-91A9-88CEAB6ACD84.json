@@ -17,8 +17,8 @@
     "constrainProportions": false,
     "height": 133,
     "width": 442,
-    "x": 227,
-    "y": 670
+    "x": 121,
+    "y": 1186
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -31,6 +31,12 @@
   "name": "Blog Post Small",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "21572BF4-2764-4BE4-B0E8-E9106920F66F",
+      "overrideName": "BD45D06D-D133-4AF2-8D65-45E40F1537A2_stringValue",
+      "value": "Introverted Developers are The Best Developers"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

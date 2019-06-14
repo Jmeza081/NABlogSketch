@@ -17,8 +17,8 @@
     "constrainProportions": false,
     "height": 133,
     "width": 442,
-    "x": 718,
-    "y": 1028
+    "x": 644,
+    "y": 1009
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -39,6 +39,12 @@
         "_ref": "images/ce0cb9ce0d38e4036492e8bf756ef27cd6f765d3.png",
         "_ref_class": "MSImageData"
       }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2D6ADFE8-2302-442E-8248-8CAE26F8E2F9",
+      "overrideName": "BD45D06D-D133-4AF2-8D65-45E40F1537A2_stringValue",
+      "value": "Learning GraphQL from the perspective of Relational DBs"
     }
   ],
   "resizingConstraint": 63,

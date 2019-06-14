@@ -40,7 +40,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,10 +62,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "rectangle",
-      "id": "E8884D2F-ED2F-4344-A683-59DCD099B906"
-    },
     {
       "class": "symbolInstance",
       "id": "2AEAE07A-25DC-4E1E-ACBB-9D87B6591379"
@@ -91,7 +87,7 @@
       "id": "E39CF5F1-A08B-4F61-9C84-F88EFDC7D686"
     }
   ],
-  "name": "Article",
+  "name": "Blog Post",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

@@ -24,7 +24,8 @@
             "_class": "paragraphStyle",
             "alignment": 0
           },
-          "textStyleVerticalAlignmentKey": 0
+          "textStyleVerticalAlignmentKey": 0,
+          "underlineStyle": 1
         },
         "length": 4,
         "location": 0
@@ -51,8 +52,8 @@
     "constrainProportions": false,
     "height": 19,
     "width": 34,
-    "x": 641,
-    "y": 1366
+    "x": 583,
+    "y": 1369
   },
   "glyphBounds": "{{1, 7}, {32, 9}}",
   "hasClippingMask": false,
@@ -68,7 +69,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "5F62D025-29B2-4327-998D-BB0E24030F18",
+  "sharedStyleID": "149C3E7E-0742-4B00-95DB-22F9154F58D4",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -97,7 +98,8 @@
           "_class": "paragraphStyle",
           "alignment": 0
         },
-        "textStyleVerticalAlignmentKey": 0
+        "textStyleVerticalAlignmentKey": 0,
+        "underlineStyle": 1
       },
       "verticalAlignment": 0
     },

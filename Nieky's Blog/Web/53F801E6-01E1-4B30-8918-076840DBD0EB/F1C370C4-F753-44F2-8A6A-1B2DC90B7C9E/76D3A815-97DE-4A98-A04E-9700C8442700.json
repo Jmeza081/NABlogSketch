@@ -1,0 +1,66 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "76D3A815-97DE-4A98-A04E-9700C8442700",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 26,
+    "width": 112,
+    "x": 232,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "API Chip Copy 4",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "85EE5890-C6FB-49E3-9196-E5589C9B7C03_stringValue",
+      "value": "Music Streaming"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BF28A99D-4C70-4348-A1E8-BD1859E2B5BE",
+      "overrideName": "85EE5890-C6FB-49E3-9196-E5589C9B7C03_textStyle",
+      "value": "675376A6-CC1D-4ECF-9D07-28A65552E939"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9BA8ADBC-A861-4626-B6D8-6C6CCCB99925",
+      "overrideName": "8A02414B-E420-419E-81B9-976119B193D5_symbolID",
+      "value": "258D8CBA-A1D9-43F7-B910-3BE39E5B5906"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F8976835-E3FD-4E2E-8215-86DCED7F3C1A",
+  "verticalSpacing": 0
+}

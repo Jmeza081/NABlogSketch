@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C423DE0D-9E94-46DE-8793-D3F9EADE3411",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C23D3747-2ED9-4721-9DDC-118F4C23086A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "87AE392E-CFE9-45CA-A1C0-09D2C92335D4",
+    "height": 33,
+    "width": 50,
+    "x": 134,
+    "y": 46
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "35787405-647C-43E8-959C-43D23DAF3245"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "210FC555-EAC5-44B2-A53B-2577E33EB8AB"
+    },
+    {
+      "class": "shapePath",
+      "id": "27B1C51D-88F3-4351-9145-C6463C6632B4"
+    },
+    {
+      "class": "shapePath",
+      "id": "C55804D6-3E37-4CAE-8672-697D49E9F3A9"
+    }
+  ],
+  "name": "Nieky Allen Logo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D600983A-4C1E-460B-83BF-B1615D85B88B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -17,8 +17,8 @@
     "constrainProportions": false,
     "height": 133,
     "width": 442,
-    "x": 718,
-    "y": 849
+    "x": 644,
+    "y": 831
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -39,6 +39,12 @@
         "_ref": "images/87782a5f040f7da50d11d038304704c85530eccf.png",
         "_ref_class": "MSImageData"
       }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2CBD23F2-0E70-4222-926E-67925B858267",
+      "overrideName": "BD45D06D-D133-4AF2-8D65-45E40F1537A2_stringValue",
+      "value": "Frequent Travels & Tips for Productivity"
     }
   ],
   "resizingConstraint": 63,

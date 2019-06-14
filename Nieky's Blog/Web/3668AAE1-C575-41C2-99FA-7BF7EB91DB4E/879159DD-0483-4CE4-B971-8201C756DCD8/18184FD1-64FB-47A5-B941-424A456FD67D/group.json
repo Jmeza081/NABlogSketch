@@ -41,16 +41,12 @@
       "id": "67063DA7-53DF-4568-82AF-754D6ED2D941"
     },
     {
-      "class": "symbolInstance",
-      "id": "5195EE3A-F0C5-4353-A1E1-A7D25FEA9E87"
-    },
-    {
       "class": "group",
       "id": "97C12AB6-50A4-43EB-84EF-8D7E397F01AE"
     }
   ],
-  "name": "Group 2",
-  "nameIsFixed": false,
+  "name": "Featured Blog",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5270CD89-3FCE-4B43-B410-958F7A653FE8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 27,
+    "width": 108,
+    "x": 624,
+    "y": 586
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Like Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "56063533-F015-4DB6-B484-47788CAF4FCD",
+      "overrideName": "88F2942B-0889-42A2-A4C2-330988985DAB_stringValue",
+      "value": "Cancel"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EBA9D325-348B-4DCC-AD3E-CC87CD7DD761",
+      "overrideName": "88F2942B-0889-42A2-A4C2-330988985DAB_textStyle",
+      "value": "0E7EBEF1-1912-4670-8589-CAD41C378478"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "67F374DF-EF62-4397-B5ED-D54F2FDF916A",
+      "overrideName": "8577497A-6EE8-4EE1-9137-82FB613699C9_symbolID",
+      "value": "AE0DEF7E-D31A-45A0-BC8D-B764CEDACE63"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AE70918D-A7E4-4899-AEF0-ADB51ACE0BDE",
+  "verticalSpacing": 0
+}

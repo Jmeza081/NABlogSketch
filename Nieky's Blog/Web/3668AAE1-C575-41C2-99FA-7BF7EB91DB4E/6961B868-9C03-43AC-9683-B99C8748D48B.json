@@ -17,8 +17,8 @@
     "constrainProportions": false,
     "height": 133,
     "width": 442,
-    "x": 227,
-    "y": 849
+    "x": 121,
+    "y": 830
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -40,6 +40,12 @@
         "_ref": "images/8976f46eaf812186a6744eedb664d43110861f5d.png",
         "_ref_class": "MSImageData"
       }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2194542B-5AC8-401B-B3C6-B58AA04A780B",
+      "overrideName": "BD45D06D-D133-4AF2-8D65-45E40F1537A2_stringValue",
+      "value": "Music and Code: Increasing Productivity"
     }
   ],
   "resizingConstraint": 63,

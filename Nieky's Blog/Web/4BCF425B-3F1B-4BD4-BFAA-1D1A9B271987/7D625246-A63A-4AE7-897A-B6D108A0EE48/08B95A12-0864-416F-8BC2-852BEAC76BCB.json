@@ -112,7 +112,7 @@
         "fillType": 4,
         "image": {
           "_class": "MSJSONFileReference",
-          "_ref": "images/26ff582f2d87698c685584b0e3883779a949da03.png",
+          "_ref": "images/e0fe8b052b136fc2201101747be278f5fe01fa41.png",
           "_ref_class": "MSImageData"
         },
         "isEnabled": true,
@@ -129,7 +129,7 @@
   "userInfo": {
     "datasupplier.key": "unsplash_dataprovider_SupplyRandomPhoto",
     "unsplash": {
-      "unsplash.photo.id": "\"ZDNr5nuZABg\""
+      "unsplash.photo.id": "\"HyOP6S1YkVw\""
     }
   }
 }
